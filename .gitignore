@@ -17,6 +17,8 @@ ui.log
 // Ignore tree files EXCEPT any specifically created by the SWG Source project
 *.tre
 !swgsource_3.0.tre
+!vora_*.tre
+vora_base_*.tre
 
 // Ignore some cfg files that the player (or SwgClientSetup_r.exe) might like to edit
 live.cfg
